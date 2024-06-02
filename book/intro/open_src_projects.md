@@ -119,7 +119,7 @@ in alphabetical order.
 (opensrc:convtasnet)=
 #### `ConvTasnet`
 
-See our overview here: {ref}`architectures:demucs`   
+See our overview here: {ref}`architectures:convtasnet`   
 This implementation is from the {ref}`opensrc:demucs` github page.  
 [Github Link](https://github.com/facebookresearch/demucs)  
 
@@ -134,7 +134,7 @@ This implementation is from the {ref}`opensrc:demucs` github page.
 (opensrc:demucs)=
 #### `Demucs`
 
-See our overview here: {ref}`architectures:convtasnet`   
+See our overview here: {ref}`architectures:demucs`   
 [Github Link](https://github.com/facebookresearch/demucs)
 
 
